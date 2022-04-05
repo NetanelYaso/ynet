@@ -1,0 +1,114 @@
+*{
+        direction: rtl;
+        margin: 0;
+        padding: 0;
+        font-family:'Secular One';
+}
+img{
+       
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+ }
+ #sanji{
+         width:20vh;
+         height: 18vh;}
+h1{
+        
+        font-size: 50px;
+        margin-left: 5vh;
+        margin-right: 5vh;
+}        
+
+        
+ 
+ ul{
+         position: absolute;
+         background-color:#de1a1a;
+         color: white;
+         width: 90%;
+         height: 3vh;
+         display: flex;
+         justify-content: space-between;
+         list-style-type: none;
+         padding: 0.5%;
+         margin-left: 5vh;
+         margin-right: 5vh;
+ }
+ .king{
+         margin-left: auto;
+         margin-right: 10vh;
+         background-color: #f3f8f9 ;
+         color: black;
+         justify-content: space-between;
+         font-size:2.5vh;
+         width: 42.9vh;
+         height:20vh;
+                 
+ }
+ span{
+         
+         position: relative; right: -18vh;
+
+ }
+ a{ 
+         color: black;
+         text-decoration: none; 
+         margin-left: 5vh;    
+         margin-right: 5vh
+  }
+ #brook{
+         display: inline-block;
+         width: 95vh;
+         height: 55vh;
+         position: absolute; left:1vh;
+         top: 59vh;     
+         margin-right: 13vh;
+         margin-left: 13vh;         
+ }
+ 
+         
+ .luffy{         
+         width: 45vw;
+         height: vh;
+         margin-left:15vh;  
+         float: left ;
+         display: grid;
+         gap: 2vh;
+         
+         
+        
+
+ }
+
+
+ 
+ .prince1 {       
+         background-color: #de1a1a;
+         
+ }
+ .prince1 a { 
+         color: #f3f8f9;
+         
+ }      
+
+ .prince2{
+         background-color: #1417AC
+         
+ }
+ .prince2 a{
+         color: white;
+ }
+ .prince3{
+         background-color:#0c1c3a;
+ }
+ 
+ .prince3 a{
+        color: white;}
+ 
+
+
+ 
+
+
+     
